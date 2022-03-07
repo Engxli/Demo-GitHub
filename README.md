@@ -6,3 +6,4 @@
 - Make a new repo, call it helloGithub
 - Make a new repo on Github
 - Show them that it will be linked to their repos
+- Commands: `git init`, `add`, `commit` and `push`
